@@ -16,7 +16,8 @@
 - **2011 – Thor exilado em Midgard**  
   O Deus do Trovão recupera o Mjölnir, derrota o Destruidor e retorna a Asgard.
 
-<!-- SLOT_LOKI -->
+**loki**
+Loki é uma série americana criada para o Disney+ por Michael Waldron, baseada no personagem de mesmo nome da Marvel Comics. É a terceira série televisiva do Universo Cinematográfico Marvel produzida pelo Marvel Studios, compartilhando continuidade com os filmes da franquia. A série ocorre após os eventos do filme Avengers: Endgame, em que uma versão alternativa de Loki criou uma nova linha do tempo. Waldron é o roteirista principal, com Kate Herron dirigindo a primeira temporada, com Eric Martin e a dupla Justin Benson e Aaron Moorhead como roteiristas principais e liderando a equipe de direção da segunda temporada, respectivamente.
 
 - **2012 – Invasão Chitauri / Formação dos Vingadores**  
   Loki ataca Nova York com o Tesseract; os Vingadores se reúnem e selam a fenda dimensional.
@@ -79,4 +80,3 @@
 
 - **2025 – Doutor Estranho: Multiverso da Loucura**  
   Strange, América Chávez e Wong enfrentam uma Wanda corrompida pelo Darkhold e contêm incursões entre realidades.
-
